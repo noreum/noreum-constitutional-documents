@@ -1,0 +1,8 @@
+# Noreum Manifest Entry — Foundational Preamble
+Document: Preamble to the Noreum Constitution.pdf
+Signature: Preamble to the Noreum Constitution.pdf.asc
+SignedBy: Noreum Cold Signing Key <sign@noreum.org>
+Fingerprint: 1630260760FF2811C5BA73B1476388C3965FCDFF
+TimestampUTC: 2025-11-12T12:16:28Z
+ReferenceChainId: 1177
+VersionTag: Preamble-v1.0
